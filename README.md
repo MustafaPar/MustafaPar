@@ -1,11 +1,11 @@
 <h1 align="center">Mustafa Par</h1>
 
 <p align="center">
-Computer Engineering Student • Mobile & Web Developer
+Computer Engineering Student
 </p>
 
 <p align="center">
-Building modern applications with a focus on clean design and user experience.
+Interested in software development, UI/UX, and modern technologies.
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@ Building modern applications with a focus on clean design and user experience.
 ## About Me
 
 - Computer Engineering student based in Türkiye
-- Interested in mobile development, UI/UX, and modern web technologies
-- Building personal projects and continuously improving my skills
-- Currently focused on creating clean and user-friendly applications
+- Interested in software development and user experience
+- Building personal projects and improving programming skills
+- Currently learning and exploring different technologies
 
 ---
 
@@ -34,12 +34,3 @@ Building modern applications with a focus on clean design and user experience.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,vscode" />
 </p>
-
----
-
-## Current Focus
-
-- Mobile app development
-- Frontend technologies
-- UI/UX design
-- Software architecture fundamentals
