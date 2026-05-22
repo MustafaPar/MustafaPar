@@ -17,6 +17,7 @@
 - I am a Computer Engineering student.
 - I am interested in software development, mobile apps, and web technologies.
 - Currently working on personal projects and improving my programming skills.
+- You can reach me at **mustafa.par@outlook.com**
 
 ---
 
@@ -36,9 +37,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafapar&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafapar&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafapar&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafapar&show_icons=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=mustafapar&theme=tokyonight" />
 </p>
